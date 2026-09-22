@@ -1,0 +1,21 @@
+# Author: Nthabiseng
+
+START
+    INPUT mark
+
+   IF the mark is <0 or >100
+
+THEN 
+   DISPLAY "Error: the mark must be between 0 and 100"
+
+ELSE
+   IF the student's mark is > or = 50
+
+THEN 
+   DISPLAY "PASS"
+
+ELSE
+   DISPLAY "FAIL"
+
+ENDIF
+END
